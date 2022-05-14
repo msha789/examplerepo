@@ -10,7 +10,7 @@
 | PhysicalHealth |	Discrete	| Now thinking about your physical health, which includes physical illness and injury, for how many days during the past 30 days was your physical health not good? (0-30 days) |	0 - 30 days |	float64 |
 MentalHealth	| Discrete	| Thinking about your mental health, for how many days during the past 30 days was your mental health not good? (0-30 days)	| 0 - 30 days |	float64 |
 | DiffWalking	| Categorical |	Do you have serious difficulty walking or climbing stairs? |	Yes/No	| object |
-| Sex	Nominal |	Are you male or female? |	Male/Female |	object |
+| Sex	| Nominal |	Are you male or female? |	Male/Female |	object |
 | AgeCategory	| Discrete |	14-level age category (5-year increments starting from age 18–24 to 80 or older) | Age category	| object |
 | Race	| Nominal |	Imputed race/ethnic value |	Race/Ethnicity | object |
 | Diabetic	| Categorical	| Do you have diabetes?	| Yes/No | object |
