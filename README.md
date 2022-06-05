@@ -21,5 +21,10 @@ MentalHealth	| Thinking about your mental health, for how many days during the p
 | KidneyDisease |	Not including kidney stones, bladder infection or incontinence, were you ever told you had kidney disease?	| Yes/No	|
 | SkinCancer | Have you had or do you have skin cancer? |	Yes/No |
 
+<p align="center">
+  <img width="500" src="https://user-images.githubusercontent.com/96354695/168441850-6c7b74e1-a8a8-41a9-a25c-95174a5d71d1.png">
+</p>
+
+
 ![image](https://user-images.githubusercontent.com/96354695/168441850-6c7b74e1-a8a8-41a9-a25c-95174a5d71d1.png)
 
