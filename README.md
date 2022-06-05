@@ -25,6 +25,10 @@ MentalHealth	| Thinking about your mental health, for how many days during the p
   <img width="650" src="https://user-images.githubusercontent.com/96354695/168441850-6c7b74e1-a8a8-41a9-a25c-95174a5d71d1.png">
 </p>
 
+<p align="center">
+  The image is here. 
+</p>
+
 
 ![image](https://user-images.githubusercontent.com/96354695/168441850-6c7b74e1-a8a8-41a9-a25c-95174a5d71d1.png)
 
