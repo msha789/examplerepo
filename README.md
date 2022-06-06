@@ -27,7 +27,7 @@ MentalHealth	| Thinking about your mental health, for how many days during the p
 </p>
 
 <p align="center">
-  The image is here. 
+  **The image is here.**
 </p>
 
 
